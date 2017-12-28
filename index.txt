@@ -1,0 +1,5 @@
+de 2
+eszik 2
+éhes 1,2
+még 2
+peti 1,2
